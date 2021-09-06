@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+Personal Site and Blog
 ---
 
-I'm glad you are here. I plan to talk about ...
+An assortment of my projects. Occasional math/physics content. 
